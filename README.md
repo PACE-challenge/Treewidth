@@ -13,6 +13,7 @@ The Parameterized Algorithms and Computational Experiments Challenge
   * [Validity checker](#validity-checker)
   * [Input format](#input-format)
   * [Output format](#output-format)
+  * [Mirrors](#mirrors)
 
 ## Problem description
 
@@ -96,3 +97,7 @@ We define the file format .td. As above, c lines are comments and can occur thro
     1 2
     2 3
     2 4
+
+## Mirrors
+
+All repositories mentioned above are mirrored [here](http://people.mmci.uni-saarland.de/~hdell/pace17/mirror/) as a backup.
