@@ -3,7 +3,7 @@
 This document contains links to solvers, instance sets, and tools for treewidth computation.
 It is a collection of products of the treewidth implementation challenges at
 The Parameterized Algorithms and Computational Experiments Challenge
-[PACE 2017](https://pacechallenge.files.wordpress.com/2016/06/lipics-ipec-2017-30.pdf) and [PACE 2016](https://doi.org/10.4230/LIPIcs.IPEC.2016.30).
+[PACE 2017](http://dx.doi.org/10.4230/LIPIcs.IPEC.2017.30) and [PACE 2016](https://doi.org/10.4230/LIPIcs.IPEC.2016.30).
 
 ### Table of Contents
 
@@ -49,6 +49,7 @@ Treewidth implementations are used in various contexts. For example, compilers a
 
 ### Exact
 
+- [PACE 2017 bonus instances](https://github.com/PACE-challenge/Treewidth-PACE-2017-bonus-instances) – this should be a fresh challenge even for the PACE 2017 winning solvers
 - [PACE 2017 competition instances](https://github.com/PACE-challenge/PACE-2017-TrackA-instances)
 - [Named graphs](https://github.com/freetdi/named-graphs.git) contributed by Lukas Larisch
 - [Control flow graphs](https://github.com/freetdi/CFGs.git) contributed by Lukas Larisch
