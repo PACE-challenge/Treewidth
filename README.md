@@ -50,13 +50,13 @@ Treewidth implementations are used in various contexts. For example, compilers a
 ### Exact
 
 - [PACE 2017 bonus instances](https://github.com/PACE-challenge/Treewidth-PACE-2017-bonus-instances) – this should be a fresh challenge even for the PACE 2017 winning solvers
-- [PACE 2017 competition instances](https://github.com/PACE-challenge/PACE-2017-TrackA-instances)
+- [PACE 2017 competition instances](https://github.com/PACE-challenge/Treewidth-PACE-2017-instances)
 - [Named graphs](https://github.com/freetdi/named-graphs.git) contributed by Lukas Larisch
 - [Control flow graphs](https://github.com/freetdi/CFGs.git) contributed by Lukas Larisch
 
 ### Heuristic
 
-- [PACE 2017 competition instances](https://github.com/PACE-challenge/PACE-2017-TrackA-instances)
+- [PACE 2017 competition instances](https://github.com/PACE-challenge/Treewidth-PACE-2017-instances)
 - [UAI 2014 probabilistic inference competition graphs](https://github.com/PACE-challenge/UAI-2014-competition-graphs)
 - [SAT competition graphs](http://people.mmci.uni-saarland.de/~hdell/pace17/SAT-competition-gaifman.tar)
 - [Transit graphs](https://github.com/daajoe/transit_graphs) contributed by Johannes Fichte
@@ -65,7 +65,7 @@ Treewidth implementations are used in various contexts. For example, compilers a
 
 ## Validity checker
 
-The validity checker [td-validate](https://github.com/holgerdell/td-validate/) verifies that a given tree decomposition (specified in the .td file format) is indeed a valid tree decomposition of a given graph (specified in the .gr format).
+The validity checker [td-validate](https://github.com/holgerdell/td-validate) verifies that a given tree decomposition (specified in the .td file format) is indeed a valid tree decomposition of a given graph (specified in the .gr format).
 
 The validity checker also comes with an automatic tester `autotest-tw-solver.py` that can automatically test a given exact treewidth solver by running it on all graphs with min-degree 3 and at most 8 vertices.
 
