@@ -30,6 +30,7 @@ Treewidth implementations are used in various contexts. For example, compilers a
 
 ### Exact
 
+- [twalgor](https://github.com/twalgor/tw) by Hiaso Tamaki (2022)
 - [tamaki-2017](https://github.com/TCS-Meiji/PACE2017-TrackA) by Hisao Tamaki, Hiromu Ohtsuka, Takuto Sato, and Keitaro Makii
 - [tdlib](https://github.com/freetdi/p17) by Lukas Larisch and Felix Salfelder
 - [Jdrasil](https://github.com/maxbannach/Jdrasil) by Max Bannach, Sebastian Berndt, and Thorsten Ehlers
@@ -98,7 +99,3 @@ We define the file format .td. As above, c lines are comments and can occur thro
     1 2
     2 3
     2 4
-
-## Mirrors
-
-All repositories mentioned above are mirrored [here](http://people.mmci.uni-saarland.de/~hdell/pace17/mirror/) as a backup.
