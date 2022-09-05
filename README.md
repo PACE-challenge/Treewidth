@@ -59,7 +59,7 @@ Treewidth implementations are used in various contexts. For example, compilers a
 
 - [PACE 2017 competition instances](https://github.com/PACE-challenge/Treewidth-PACE-2017-instances)
 - [UAI 2014 probabilistic inference competition graphs](https://github.com/PACE-challenge/UAI-2014-competition-graphs)
-- [SAT competition graphs](http://people.mmci.uni-saarland.de/~hdell/pace17/SAT-competition-gaifman.tar)
+- [SAT competition graphs](https://github.com/PACE-challenge/Treewidth/releases/download/SAT-competition-gaifman/SAT-competition-gaifman.zip)
 - [Transit graphs](https://github.com/daajoe/transit_graphs) contributed by Johannes Fichte
 - [Road graphs](https://github.com/ben-strasser/road-graphs-pace16) contributed by Ben Strasser
 - [treedecomposition.com](https://treedecomposition.com/)
