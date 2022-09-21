@@ -62,7 +62,7 @@ Treewidth implementations are used in various contexts. For example, compilers a
 - [SAT competition graphs](https://github.com/PACE-challenge/Treewidth/releases/download/SAT-competition-gaifman/SAT-competition-gaifman.zip)
 - [Transit graphs](https://github.com/daajoe/transit_graphs) contributed by Johannes Fichte
 - [Road graphs](https://github.com/ben-strasser/road-graphs-pace16) contributed by Ben Strasser
-- [treedecomposition.com](https://treedecomposition.com/)
+- treedecomposition.com (now defunct)
 
 ## Validity checker
 
